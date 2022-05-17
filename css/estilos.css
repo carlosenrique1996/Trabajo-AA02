@@ -1,0 +1,79 @@
+body{
+    background:url("../IMAGENES1/IMAGEN\ FONDO.jpg");
+    background-size:100%;
+}
+#contenedor{
+    width:1500px;
+    height:1800px;
+    margin:auto;
+}
+#cabecera{
+    background:rgba(0,0,0, 0.5);
+}
+#cabecera img{
+    width:1500px;
+    height:400px;    
+}
+#menu1{
+    width:400px;        
+    height:40px;
+    background:white;
+    position:relative;
+    top:-20px;
+}
+#menu2{
+    width:400px;
+    height:40px;
+    background:rgb(24, 97, 24);
+    position:relative;
+    top:-40px;
+}
+#menu3{
+    width:400px;
+    height:40px;
+    background:rgb(24, 97, 24);
+    position:relative;
+    top:-60px;
+}
+#menu4{
+    width:400px;
+    height:40px;
+    background:rgb(24, 97, 24);
+    position:relative;
+    top:-74px;
+}
+#menu5{
+    width:400px;
+    height:40px;
+    background:rgb(24, 97, 24);
+    position:relative;
+    top:-88px;
+}
+#menu6{
+    width:400px;
+    height:40px;
+    background:rgb(24, 97, 24);
+    position:relative;
+    top:-102px;
+}
+#ladoizquierdo{
+    width:510px;
+    height:400px;
+    background:white;
+    position:relative;
+    top:-420px;
+    left:440px;
+    text-align:center;
+}
+#ladoizquierdo img{
+    width:450px;
+    height:320px;
+}
+#ladoderecho{
+    width:550px;
+    height:400px;
+    background:white;
+    position:relative;
+    top:-840px;
+    left:950px;
+}
